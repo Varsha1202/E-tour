@@ -1,7 +1,7 @@
 <h1>E-TOUR 🌍</h1>
 
 <h2>PLATFORM</h2>
-🖥 JAKARTA EE, .NET CORE, REACT JS, MySQL
+🖥 JAKARTA EE, REACT JS, MySQL
 
 ⏳ Duration: 1 Month
 
@@ -24,13 +24,6 @@ This application leverages MODERN TECHNOLOGIES and is HIGHLY DATABASE-DRIVEN, of
 ✅ Docker for containerization<br>
 ✅ JWT for authentication<br>
 ✅ Microservices architecture<br> 
-
-
-**Microsoft Stack:**<br>
-✅ .NET Core 8.0<br>
-✅ Web API Core 8.0<br>
-✅ SQL Server<br>
-✅ Entity Framework Core 8.0<br>
 
 **Frontend:**<br>
 ✅ React JS 18<br>
@@ -56,7 +49,6 @@ Supports I18N (Internationalization) for dynamic multi-language descriptions.<br
 
 Make sure you have the following installed:<br>
 🔹 Java 17+<br>
-🔹 .NET SDK 8.0+<br>
 🔹 Node.js 18+<br>
 🔹 Docker<br>
 🔹 MySQL 8<br>
@@ -98,11 +90,6 @@ Payment
     cd backend<br>
     mvn clean install<br>
     mvn spring-boot:run<br>
-
-<br>**🔹 For .Net Core Backend:**<br>
-    cd backend-dotnet<br>
-    dotnet build<br>
-    dotnet run<br>
 
 <br>**3️⃣ Frontedn Setup (React Js)**<br>
     cd frontend

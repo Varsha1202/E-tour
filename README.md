@@ -90,7 +90,7 @@ Payment
 
 <br><br><h2>📌 STEPS TO RUN</h2>
 1️⃣ Clone the Repository<br>
-    git clone https://github.com/Rushikesh-264/e-tour.git<br>
+    git clone https://github.com/Varsha1202/E-tour.git<br>
     cd e-tour<br>
 
 <br>**2️⃣ Backend Setup (Spring Boot & .Net Core)**<br>
